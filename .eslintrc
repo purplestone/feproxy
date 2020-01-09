@@ -13,6 +13,7 @@
     "strict": "off",
     "no-alert": "off",
     "react/prop-types": "off",
+    "no-bitwise": "off",
     "no-irregular-whitespace": [
       "error",
       {
