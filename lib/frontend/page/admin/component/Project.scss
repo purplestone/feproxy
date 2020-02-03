@@ -82,13 +82,18 @@
         font-size: 12px;
         line-height: 18px;
         word-break: break-all;
+
+        .input-text {
+          padding: 3px 6px;
+          margin-right: 1em;
+        }
       }
       .enable {
         width: 30px;
         text-align: center;
       }
 
-      .input {
+      .input-text {
         display: flex;
         flex-direction: row;
         flex: 1;
@@ -101,6 +106,7 @@
         &:hover {
           border: 1px solid rgb(231, 231, 231);
         }
+        
         ~ .input {
           margin-left: 10px;
         }
