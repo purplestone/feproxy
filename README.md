@@ -1,10 +1,4 @@
 
-# FeProxy
-[![NPM version](https://img.shields.io/npm/v/feproxy.svg?style=flat-square)](https://npmjs.org/package/feproxy)
-[![node version](https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square)](http://nodejs.org/download/)
-[![build status](https://img.shields.io/travis/feix760/feproxy.svg?style=flat-square)](https://travis-ci.org/feix760/feproxy)
-[![Test coverage](https://codecov.io/gh/feix760/feproxy/branch/master/graph/badge.svg?style=flat-square)](https://codecov.io/gh/feix760/feproxy)
-[![License](https://img.shields.io/npm/l/feproxy.svg?style=flat-square)](https://www.npmjs.com/package/feproxy)
 
 **FeProxy** is a proxy tool use for web development like the `Fiddler`, and we use `Chrome Devtools` to inpect net traffic.
 
@@ -27,7 +21,7 @@ Inspect page [http://127.0.0.1:8888/admin.html](http://127.0.0.1:8888/admin.html
 ### Development
 
 ```sh
-git clone https://github.com/feix760/feproxy.git
+git clone https://github.com/purplestone/feproxy.git
 cd feproxy
 npm run dev
 ```
